@@ -1664,6 +1664,10 @@ color: #0e0f10;
 	-o-transition: all .3s;
 	transition: all .3s;
 }
+
+.pt-portfolio .portfolio-items .item figure:hover .imginfo {
+	opacity: 0 !important;
+}
  
 .pt-portfolio .portfolio-items .item figure:hover img {
 	opacity: 0.25;
